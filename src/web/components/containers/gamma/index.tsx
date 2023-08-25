@@ -1,5 +1,5 @@
 import DataTable from "../../stateless/dataTable/dataTable"
-import rawData from "../../../../assets/Wine-Data.json"
+import rawData from "../../../../assets/data/Wine-Data.json"
 import { gammaCalculation } from "../../../utilities/helpers"
 
 
