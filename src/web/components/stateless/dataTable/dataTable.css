@@ -1,0 +1,21 @@
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+tr{
+    height: 60px;
+}
+
+th{
+    width: 100px;
+}
+
+tbody{
+    text-align: center;
+}
+
+tr td:nth-child(1){
+    font-weight: 600;
+
+}
